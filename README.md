@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h1>Marketplace</h1>
+  <h1>Medium Clone</h1>
 </div>
 
 ### Features :
